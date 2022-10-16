@@ -4,7 +4,7 @@ Hi ! My name is Sumit Kamble
 CSE Student
 -----------
 
-I'm in to Web Dev, more in backend side I think.
+I'm in to Web Dev, more in backend side.
 
 * 🌍  I'm based in Maharashtra, India
 
